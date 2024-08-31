@@ -14,5 +14,5 @@ Em seguida, foi utilizado a ferramenta D-ID para a criação de um avatar virtua
 ## 🚀 Resultados
 O vídeo é uma apresentação sobre a importância do uso de IAs Generativas como ferramentas de aprendizagem.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Este projeto contribuiu para desenvolvimento de habilidades incríveis sobre a utilização de ferramentas poderosas no ambiente virtual, com a geração de avatar, sinteização de voz, etc, tornando a minha experiência ainda mais esplêndida, principalmente após o resultado do projeto.

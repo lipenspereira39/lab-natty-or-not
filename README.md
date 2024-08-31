@@ -13,6 +13,6 @@ Em seguida, foi utilizado a ferramenta HeyGen para a criação de um avatar virt
 
 ## 🚀 Resultados
 O vídeo é uma apresentação sobre a importância do uso de IAs Generativas como ferramentas de aprendizagem.
-
+[LINK PARA O VÍDEO](https://app.heygen.com/share/4acb7b81eb7b47e1919b8354229ef327)
 ## 💭 Reflexão 
 Este projeto contribuiu para desenvolvimento de habilidades incríveis sobre a utilização de ferramentas poderosas no ambiente virtual, como geração de avatar, conversão de texto em voz, edição de vídeo, tornando a minha experiência ainda mais esplêndida, principalmente após o resultado do projeto.
